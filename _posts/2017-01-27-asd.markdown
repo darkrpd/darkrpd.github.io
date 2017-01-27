@@ -1,6 +1,12 @@
 ---
-title: asd
+title: Hello World via Jekyll
 date: 2017-01-27 08:02:00 +03:00
 ---
 
-asd
+Hello and Welcome to my blog. I've really wanted to this since a long time along.
+
+I will share all my information about coding,computers,elecronics, my hobbies(maybe a seperate blog from this) and so on at this blog.
+
+I am sure we will enjoy every moment :) So, you can raise your hands into the air
+
+We're gonna hail and kill :)
