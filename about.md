@@ -10,8 +10,8 @@ I'm a software developer, gamer, handheld console enthusiast, vaping nerd and lo
 
 You can check my linkedin profile and this resume for now, I will update this page soon. Please be patient :)
 
-**My Resume :** https://www.visualcv.com/aliaskin_eng
-
+**My Resume :** [visualcv.com/aliaskin_eng
+](https://www.visualcv.com/aliaskin_eng)
 ### Contact me
 
 [aliaskin@outlook.com](mailto:aliaskin@outlook.com)
