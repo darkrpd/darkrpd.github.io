@@ -2,9 +2,6 @@
 title: Darkrpd.Github.Io
 timezone: Asia/Kuwait
 collections:
-  deneme:
-    title: DENEME
-    output: true
   posts:
     title: Posts
     output: true
