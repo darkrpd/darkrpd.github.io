@@ -6,5 +6,4 @@ description: "---"
 category: jekyll
 ---
 
-
 Some examples of jekyll
