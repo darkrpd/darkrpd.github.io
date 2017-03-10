@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
-title: Language Learning
-permalink: "/jekyll/"
-layout: category
-description: allonz-y
-category: jekyll
 ---
+
 =======
 title: Category Jekyll
 permalink: "/jekyll/"
