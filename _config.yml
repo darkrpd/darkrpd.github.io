@@ -12,23 +12,23 @@ name: Ali Aşkın
 description: Software Developer
 avatar: https://avatars3.githubusercontent.com/u/5677816?v=3&u=090ab5f1517f2ae4a10d109410b12b61ea2cd69d&s=400
 footer-links:
-  dribbble: 
+  dribbble:
   email: aliaskin@outlook.com
-  facebook: 
-  flickr: 
+  facebook:
+  flickr:
   github: darkrpd/
-  instagram: 
+  instagram:
   linkedin: aliaskin
-  pinterest: 
+  pinterest:
   rss: feed
   twitter: rpdmania
   stackoverflow: users/5244355/rpd
-  youtube: 
-  googleplus: 
-disqus: 
+  youtube:
+  googleplus:
+disqus:
 google_analytics: UA-91014408-1
 url: http://darkrpd.github.io
-baseurl: 
+baseurl:
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
