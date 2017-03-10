@@ -4,6 +4,7 @@ date: 2017-01-27 08:02:00 +03:00
 categories:
 - jekyll
 - hello
+categories: jekyll hey
 author: ali askin
 layout: post
 ---
