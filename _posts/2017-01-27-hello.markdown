@@ -2,7 +2,8 @@
 title: Hello World via Jekyll
 date: 2017-01-27 08:02:00 +03:00
 categories:
-- ecig
+- hello
+- jekyll
 author: ali askin
 layout: post
 ---
