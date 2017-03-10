@@ -2,7 +2,7 @@
 title: Category Jekyll
 permalink: "/jekyll/"
 layout: category
-description: ---
+description: "---"
 category: jekyll
 ---
 
