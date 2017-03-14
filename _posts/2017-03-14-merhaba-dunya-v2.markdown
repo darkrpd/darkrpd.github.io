@@ -1,10 +1,10 @@
 ---
 title: Merhaba Dünya V2
 date: 2017-03-14 08:31:00 +03:00
+categories:
+- jekyll
+- hey
 author: Ali Aşkın
-categories: 
-  - jekyll
-  - hey
 ---
 
 Öncelikle tekrardan selamlar. Göreceli olarak uzun bir süre boyunca yazmadım. Nedeni ise yazılarımı tag yani etiket kullanıp ayıramamam ve Jekyll'ın bunu native olarak düzgünce -henüz- desteklememesi. Bu sorunumu çeşitli çözümlerle gidermeye çalıştım. Zaman geldi pes ettim. Zaman geldi küfür ettim. Ancak amacıma ulaştım. Taglama sistemini ekledim bir şekilde. Bu uğraşı üzerindeyken ve henüz blog başlamamışken birkaç revizyon daha getirdim.
