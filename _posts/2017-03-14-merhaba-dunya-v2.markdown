@@ -2,7 +2,7 @@
 title: Merhaba Dünya V2
 date: 2017-03-14 08:31:00 +03:00
 author: Ali Aşkın
-categories: |-
+categories: 
   - jekyll
   - hey
 ---
