@@ -1,6 +1,9 @@
 ---
 title: Github Pages ve Jekyll'a giriş
 date: 2017-03-15 18:31:00 +03:00
+author: Ali Aşkın
+categories:
+- jekyll
 ---
 
 Bilindiği üzere artık pages hizmeti sayesinde github üzerinden basit statik siteler kurulabiliyor. Ücretsiz şekilde sitenizi ayağa kaldırabiliyorsunuz. Ayrıca projenizin sitesini de bu şekilde sunabilmenize olanak sağlıyor. Peki bunu nasıl yapacağız? Jekyll bu yollardan biri ve en popüleri. Haricindekileri buradan görebilirsiniz.
