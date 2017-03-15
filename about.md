@@ -14,4 +14,4 @@ Yazılım geliştirici, oyuncu, handheld konsol koleksiyoncusu, kıdemli vaper v
 
 [aliaskin@outlook.com](mailto:aliaskin@outlook.com)
 
-Dipnot: Ayrıca bana aşağıdaki mecralardan da ulaşabilirsiniz.
+Dipnot: Ayrıca bana aşağıdaki mecralardan da istediğiniz zaman ulaşabilirsiniz. Bilgimce yardımcı olmaya çalışırım :)
