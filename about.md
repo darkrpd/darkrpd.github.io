@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-###### Hakkında
+# Hakkında
 
 Yazılım geliştirici, oyuncu, handheld konsol koleksiyoncusu, kıdemli vaper ve hobi elektronikçi.
 
