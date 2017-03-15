@@ -4,16 +4,14 @@ permalink: "/about/"
 layout: page
 ---
 
-I'm a software developer, gamer, handheld console enthusiast, vaping nerd and love electronics.
+Yazılım geliştirici, oyuncu, handheld konsol koleksiyoncusu, kıdemli vaper ve hobi elektronikçi.
 
-### More Information
+### Daha fazla bilgi için:
 
-You can check my linkedin profile and this resume for now, I will update this page soon. Please be patient :)
+**Cv(Resume aslında):** [visualcv.com/aliaskin_eng](https://www.visualcv.com/aliaskin_eng)
 
-**My Resume :** [visualcv.com/aliaskin_eng](https://www.visualcv.com/aliaskin_eng)
-
-### Contact me
+### İletişim
 
 [aliaskin@outlook.com](mailto:aliaskin@outlook.com)
 
-Ps: Also You can contact me by my social accounts everytime
+Dipnot: Ayrıca bana aşağıdaki mecralardan da ulaşabilirsiniz.
