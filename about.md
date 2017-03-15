@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: "/hakkında/"
+permalink: "/about/"
 layout: page
 ---
 
