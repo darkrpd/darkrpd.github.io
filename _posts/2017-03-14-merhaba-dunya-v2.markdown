@@ -7,7 +7,7 @@ categories:
 author: Ali Aşkın
 ---
 
-![rocket](http://pngimg.com/uploads/rockets/rockets_PNG13284.png =100x20)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Öncelikle tekrardan selamlar. Göreceli olarak uzun bir süre boyunca yazmadım. Nedeni ise yazılarımı tag yani etiket kullanıp ayıramamam ve Jekyll'ın bunu native olarak düzgünce -henüz- desteklememesi. Bu sorunumu çeşitli çözümlerle gidermeye çalıştım. Zaman geldi pes ettim. Zaman geldi küfür ettim. Ancak amacıma ulaştım. Taglama sistemini ekledim bir şekilde. Bu uğraşı üzerindeyken ve henüz blog başlamamışken birkaç revizyon daha getirdim.
 
