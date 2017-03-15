@@ -7,8 +7,7 @@ categories:
 author: Ali Aşkın
 ---
 
-![alt text](http://pngimg.com/uploads/rockets/rockets_PNG13284.png "Logo Title Text 1")
-
+<img src="http://pngimg.com/uploads/rockets/rockets_PNG13284.png" width="200">
 Öncelikle tekrardan selamlar. Göreceli olarak uzun bir süre boyunca yazmadım. Nedeni ise yazılarımı tag yani etiket kullanıp ayıramamam ve Jekyll'ın bunu native olarak düzgünce -henüz- desteklememesi. Bu sorunumu çeşitli çözümlerle gidermeye çalıştım. Zaman geldi pes ettim. Zaman geldi küfür ettim. Ancak amacıma ulaştım. Taglama sistemini ekledim bir şekilde. Bu uğraşı üzerindeyken ve henüz blog başlamamışken birkaç revizyon daha getirdim.
 
 Öncelikle araştırmam bana da henüz çoğu bilgisayar konusu hakkında düzgün bilginin dilimizde olmadığını bir kez daha gösterdi. Bu yüzden İngilizce yazacağım siteyi Türkçeye çeviriyorum. İngilizcede az çok her şeyi bulabiliyorsunuz. Ancak yazacağım çoğu şeyin dilimizdeki kaynağı ya yok ya da çok az. Böylelikle sitenin daha yararlı olacağının düşüncesindeyim.
