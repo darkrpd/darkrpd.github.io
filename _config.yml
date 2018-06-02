@@ -1,24 +1,33 @@
-# Site settings
+---
 title: A blog about me
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: A blog about software development, electronical awesome things and hobbies
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-
-# User settings
 username: Ali Aşkın
-user_description: Due to my curiousity about computer technologies and electronics, I am trying to learn various fields about technology. Therefore I am willing to learn and go further as much as I do. 
+user_description: Due to my curiousity about computer technologies and electronics,
+  I am trying to learn various fields about technology. Therefore I am willing to
+  learn and go further as much as I do.
 user_title: Software Developer
 email: aliaskin@outlook.com
 twitter_username: rpdmania
-github_username:  darkrpd
+github_username: darkrpd
 linkedin_username: aliaskin
 stackoverflow_username: 5244355/rpd
-# Google-analytics
 google-analytics:
-  id: ""
-# About page descriptions
-user_tech_design_description: On the projects I am included, I work with current front end techs like famous frameworks,languages and libraries.                                 
-user_tech_code_description: My coding experience is the best thing I have. Though I work as a Full Stack, I especially love backend technologies.
-user_tech_tools_description: Tools are very helpful, also important for the time needed on projects. I learn much more tools that help on this road.
-
-exclude: ['package.json', 'src' , 'node_modules']
+  id: ''
+user_tech_design_description: On the projects I am included, I work with current front
+  end techs like famous frameworks,languages and libraries.
+user_tech_code_description: My coding experience is the best thing I have. Though
+  I work as a Full Stack, I especially love backend technologies.
+user_tech_tools_description: Tools are very helpful, also important for the time needed
+  on projects. I learn much more tools that help on this road.
+exclude:
+- package.json
+- src
+- node_modules
